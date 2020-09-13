@@ -1,6 +1,6 @@
 # This is a sample Python script Based on CH.3 material
 # ASCII text generated with http://www.network-science.de/ascii/
-# Donte Jones
+# Donte Jones jones_donte@dublinschools.net
 # IT Academy @ Emerald Campus
 #
 #Notes PYCHARM users: Use CTRL+/ to uncomment or comment any selected lines of code
