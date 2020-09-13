@@ -213,4 +213,42 @@ This 'or' That
 
 
 
+"""
+
+ _____  _                   _               _____                                         
+|  __ \| |                 (_)             |  __ \                                        
+| |__) | | __ _ _ __  _ __  _ _ __   __ _  | |__) | __ ___   __ _ _ __ __ _ _ __ ___  ___ 
+|  ___/| |/ _` | '_ \| '_ \| | '_ \ / _` | |  ___/ '__/ _ \ / _` | '__/ _` | '_ ` _ \/ __|
+| |    | | (_| | | | | | | | | | | | (_| | | |   | | | (_) | (_| | | | (_| | | | | | \__ \
+|_|    |_|\__,_|_| |_|_| |_|_|_| |_|\__, | |_|   |_|  \___/ \__, |_|  \__,_|_| |_| |_|___/
+                                     __/ |                   __/ |                        
+                                    |___/                   |___/
+                                    
+                                    
+Before writing code, planning will save you time and frustration
+Creating an outline using 'PseudoCode' is a great idea to refine your 'Algorithm'
+
+Algorithm: A set of instructions to complete a task
+Pseudo Code: The combination of plain English structured with code syntax
+                               
+"""
+# Try Example 1
+# Simulate a coin flip game
+
+
+# Try Example # 2
+# Create a Guess the Number Game
+#
+# Plan the Logic
+# Refine the Algorithm
+# Add Comments
+# Import the Random Module
+#
+# Explain the Rules to the User
+# Set the Initial Values
+# Create a Guessing Loop
+# Congratulate the Player
+# Wait for the Player to Quit
+
+
 
