@@ -145,3 +145,72 @@ Also See Example 1 in the 'Branching' section above
 #         money = float(input("Any value that is not 0 will evaluate as 'True'.\nEnter a numeric value to test...\n"))
 #
 # print("Money has evaluated to False and you have exited the loop body")
+
+'''
+Intentional Infinite Loops
+
+Sometimes you may want to create an intentional 'infinite' loop this is very rare but valid
+Using 'break' and 'continue' allows you to define an exit condition inside the loop
+
+'break': will break you out of the loop 
+'continue': will jump you to the start of the loop
+
+'''
+# Example 1 (Intentional Infinite Loops)
+# count = 0
+#
+# while True: #'True' is forever evaluated as 'True' creating an 'infinite' loop
+#
+#     count += 1
+#
+#     #End the loop when count reches 10
+#     if count > 10:
+#         break
+#
+#     #Skip 5
+#     if count == 5:
+#         continue #Once this statement is reached flow is passed back
+#                  # to the beginning of the loop before 'print()' is executed
+#     print(count)
+
+
+
+"""
+ _                 _           _      ____                       _                 
+| |               (_)         | |    / __ \                     | |                
+| |     ___   __ _ _  ___ __ _| |   | |  | |_ __   ___ _ __ __ _| |_ ___  _ __ ___ 
+| |    / _ \ / _` | |/ __/ _` | |   | |  | | '_ \ / _ \ '__/ _` | __/ _ \| '__/ __|
+| |___| (_) | (_| | | (_| (_| | |   | |__| | |_) |  __/ | | (_| | || (_) | |  \__ \
+|______\___/ \__, |_|\___\__,_|_|    \____/| .__/ \___|_|  \__,_|\__\___/|_|  |___/
+              __/ |                        | |                                     
+             |___/                         |_| 
+                 
+                 
+Logical Operators are used to create compound conditions
+meaning a decision can be made by evaluating a group of conditions   
+
+For Example
+This 'and' That 
+This 'or' That 
+('Not' This) 'and' ('Not' That)
+  
+"""
+#Example 1
+# userName = input("Enter User Name: ")
+# password = input("Enter your Password: ")
+#
+# while True:
+#     #Both conditions must be true matching username and password
+#     #Notice userName is not case sensitive but password is
+#     if userName.lower() == "admin" and password == "Admin":
+#         print("Access Granted")
+#         break
+#
+#     else:
+#         print("Access Denied")
+#         userName = input("Enter User Name: ")
+#         password = input("Enter your Password: ")
+
+
+
+
