@@ -3,7 +3,7 @@
 # Donte Jones jones_donte@dublinschools.net
 # IT Academy @ Emerald Campus
 #
-#Notes PYCHARM users: Use CTRL+/ to uncomment or comment any selected lines of code
+# Notes PYCHARM users: Use CTRL+/ to uncomment or comment any selected lines of code
 
 
 
