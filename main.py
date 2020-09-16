@@ -57,7 +57,8 @@ if condition == "true"
     do this
     
 Comparison Operators
-== Equal to 
+== Equal to (contents)
+is Equal to (Object) 
 != Not Equal to 
 > Greater than
 < Less Than 
@@ -97,6 +98,14 @@ Comparison Operators
 #
 # elif (money == True):
 #     print("i am rich!".upper()) #Remember .upper() is a builtin string helper method
+
+
+#Example 3 ('is' operator)
+x = [1,2,3]
+y = [1,2,3]
+
+print(x == y) # Prints True
+print(x is y) # Prints False
 
 """
 __          ___     _ _          _                       
