@@ -66,7 +66,7 @@ is Equal to (Object)
 <= Less than or Equal To 
 
 """
-#Example 1 (shorthand notation)
+### Example 1 (shorthand notation)
 #Change the values of rain and sun to see different results
 
 # rain = True
@@ -88,9 +88,10 @@ is Equal to (Object)
 # else:
 #     print("It must be cloudy because the value of rain is {}".format(rain),
 #           "and the value of sunny is {}".format(sunny))
-#
-#
-# #Example 2 (formatted using longhand)
+
+
+### Example 2 (formatted using longhand)
+
 # money = True
 #
 # if (money != True):
@@ -100,12 +101,13 @@ is Equal to (Object)
 #     print("i am rich!".upper()) #Remember .upper() is a builtin string helper method
 
 
-#Example 3 ('is' operator)
-x = [1,2,3]
-y = [1,2,3]
+### Example 3 ('is' operator)
 
-print(x == y) # Prints True
-print(x is y) # Prints False
+# x = [1,2,3]
+# y = [1,2,3]
+#
+# print(x == y) # Prints True
+# print(x is y) # Prints False
 
 """
 __          ___     _ _          _                       
